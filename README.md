@@ -4,15 +4,9 @@ This repository contains my first steps in programming.
 I am preparing for an Ausbildung as Fachinformatiker for Application Development.
 
 ## Projects
-- Python Calculator – simple console application
-- Python To-Do List – managing tasks via console
-- Simple HTML Profile Page
-
+- Java Calculator – simple console application without GUI
 ## Technologies
-- Python
 - Java
-- HTML
-- CSS
 - Git / GitHub
 
 ## What I am learning
